@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatyMoo25037750
 - 👀 I’m interested in Blockchain ecosystems
-- 🌱 I’m currently learning JavaScript & Solidity
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate in a blockchain project
 - 📫 How to reach me... katymoon03@gmail.com
 Thank you for reading!
